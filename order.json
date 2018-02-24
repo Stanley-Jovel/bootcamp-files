@@ -1,32 +1,28 @@
 {
   "1": {
     "id": 1,
-    "order": {
-      "arroz": {
-        "queso": 1,
-        "frijolQueso": 0,
-        "revueltas": 0
-      },
-      "maiz": {
-        "queso": 0,
-        "frijolQueso": 2,
-        "revueltas": 0
-      }
+    "arroz": {
+      "queso": 1,
+      "frijolQueso": 0,
+      "revueltas": 0
+    },
+    "maiz": {
+      "queso": 0,
+      "frijolQueso": 2,
+      "revueltas": 0
     }
   },
   "2": {
     "id": 2,
-    "order": {
-      "arroz": {
-        "queso": 0,
-        "frijolQueso": 0,
-        "revueltas": 2
-      },
-      "maiz": {
-        "queso": 3,
-        "frijolQueso": 0,
-        "revueltas": 0
-      }
+    "arroz": {
+      "queso": 0,
+      "frijolQueso": 0,
+      "revueltas": 2
+    },
+    "maiz": {
+      "queso": 3,
+      "frijolQueso": 0,
+      "revueltas": 0
     }
   }
 }
