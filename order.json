@@ -1,5 +1,6 @@
 [
   {
+    "id": 1000,
     "arroz": {
       "queso": 1,
       "frijolQueso": 0,
@@ -12,6 +13,7 @@
     }
   },
   {
+    "id": 1001,
     "arroz": {
       "queso": 0,
       "frijolQueso": 0,
